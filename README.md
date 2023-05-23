@@ -9,3 +9,5 @@
 # Salvando modificações/atual
 
 # alteração 
+
+# Nova alteração usando comando git pull origin <nome-da-branch> 
